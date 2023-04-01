@@ -2,7 +2,6 @@
 <html lang="pt-BR">
 <head>
 	<meta charset="UTF-8">
-	<title>Currículo Digital</title>
 </head>
 <body>
 	<h1>Currículo Digital</h1>
