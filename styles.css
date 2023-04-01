@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+div{
+    display: inline-block;
+}
+
+main{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    border-color: beige;
+    border-style:solid;
+    position:static;    
+}
+
+strong{
+    color: lightskyblue;
+}
+
+ul{
+    font-size: 20px;
+}
+
+#div1 {
+    text-align: center;
+    background-color: #555;
+    width: 300px;
+    height: 80vh;
+    padding-top: 150px;
+    color: lightskyblue;
+    text-decoration: none;
+    
+}
+
+#div2 {
+    text-align: left;
+    text-decoration: none;
+    position:absolute;
+    padding-top: 180px;
+    padding-left: 10px;
+    
+}
+
+.email{
+    color: lightskyblue;
+    text-decoration: none;
+}
+
+.name{
+    font-size: 50px;
+    color: #555;    
+}
+
+.descrição{
+    padding-left: 30px;
+    text-align:justify ;
+}
+
+#icons{
+    text-decoration: none;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 50px;
+
+}
+
+#link-menu{
+    color: lightskyblue;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+}
+
